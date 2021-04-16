@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    {REPLACEME}
+  },
+  "ConnectionStrings": {
+    "MyDb": "<my connection string>"
+  },
+  "Host": {
+    "CORS": "*"
+  }
+}
